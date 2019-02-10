@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Basic Tables</title>
+</head>
+<body>
+<h1>Basic Tables</h1>
+
+<h2>Table One</h2>
+
+<table>
+    <tr>
+        <td>Rat</td>
+        <td>Hood Island Tortoise</td>
+    </tr>
+
+    <tr>
+        <td>Owl</td>
+        <td>Anteater</td>
+    </tr>
+
+    <tr>
+        <td>Anything</td>
+        <td>Peacock</td>
+    </tr>
+
+</table>
+<br>
+
+    <h2>Table Two</h2>
+<table border="1">
+    <th>Rank in Size</th>
+    <th>State Name</th>
+    <th>State Capital</th>
+
+    <tr>
+    <td>1</td>
+    <td>Alaska</td>
+    <td>Juneau</td>
+    </tr>
+
+    <tr>
+    <td>2</td>
+    <td>Texas</td>
+    <td>Austin</td>
+    </tr>
+
+    <tr>
+        <td>3</td>
+        <td>California</td>
+        <td>Sacramento</td>
+    </tr>
+
+    <tr>
+        <td>4</td>
+        <td>Montana</td>
+        <td>Helena</td>
+    </tr>
+
+    <tr>
+        <td>5</td>
+        <td>New Mexico</td>
+        <td>Santa Fe</td>
+    </tr>
+
+
+</table>
+
+
+</body>
+</html>
